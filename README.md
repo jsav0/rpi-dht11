@@ -9,10 +9,10 @@
 ---
 
 ### pinout to rpi3
-- [1] ---> [02] 5v
+- [1] ---> VCC 5v
 - [2] ---> [12] GPIO18 and 10k pullout resistor to VCC
 - [3] ---> unused
-- [4] ---> [14] - GND
+- [4] ---> GND
 
 
 
